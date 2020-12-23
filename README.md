@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The idea for this project is to create a functionining program that predicts the chances of catching fish. Packed into a pretty GUI in a mobilephone, this program would revolutionize the way fishing hobbyist fish all across the globe.
+The idea for this project is to create a functionining program that predicts the chances of catching fish. Packed into a pretty GUI on a mobilephone, this program would revolutionize the way fishing hobbyist fish all across the globe.
 
 ## Background
 
